@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "osdatatypes.h": "c",
+        "osconfig.h": "c",
+        "osport.h": "c",
+        "list.h": "c"
+    }
+}
